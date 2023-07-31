@@ -6,7 +6,7 @@
 
 | Colab | Info
 | --- | --- |
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/insightface-colab/blob/main/insightface_colab.ipynb) | ZoeDepth_colab
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/insightface-colab/blob/main/insightface_face_detection.ipynb) | insightface_face_detection_colab
 
 ## Main Repo
 https://github.com/deepinsight/insightface/ <br />
