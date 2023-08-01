@@ -6,13 +6,11 @@
 
 | Colab | Info
 | --- | --- |
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/insightface-colab/blob/main/insightface_face_detection_colab.ipynb) | insightface_face_detection_colab
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/insightface-colab/blob/main/insightface_person_detection_colab.ipynb) | insightface_person_detection_colab
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/insightface-face-detection-colab/blob/main/insightface_face_detection_colab.ipynb) | insightface_face_detection_colab
 
 ## Main Repo
 https://github.com/deepinsight/insightface/ <br />
 https://huggingface.co/spaces/hysts/insightface-SCRFD/tree/main <br />
-https://huggingface.co/spaces/hysts/insightface-person-detection/tree/main <br />
 
 ## Paper
 https://arxiv.org/abs/2105.04714
